@@ -3,7 +3,7 @@
 <img src="demo/demo1.png" width="600" alt="demo1"> 
 <img src="demo/demo2.png" width="600" alt="demo2"> 
 <img src="demo/demo3.png" width="600" alt="demo3"> 
-<img src="demo/demo1.png" width="600" alt="demo1"> 
+<img src="demo/demo4.png" width="600" alt="demo4"> 
 ## Управление
 E - взять
 
